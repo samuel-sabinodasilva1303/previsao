@@ -1,0 +1,56 @@
+#weather{
+    text-align: center;
+
+}
+#weather p{
+    font-size: 32px;
+}
+#weather button{
+    cursor: pointer;
+    margin-left: -2em;
+    border: 0;
+    font-size: 22px;
+    background: black;
+    color: wheat;
+    border-radius: 6px;
+    width: 150px;
+    height: 46px;
+}
+#weather button:hover{
+    background: rgb(58, 58, 58);
+}
+
+#weather input{
+    padding: 0 15px;
+    border-radius: 6px;
+    width: 250px;
+    height: 42px;
+}
+.weather_form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/*Results*/
+.weather{
+    text-align: center;
+
+}
+.weather p{
+    font-size: 32px;
+}
+
+.weather button{
+    cursor: pointer;
+    margin-left: -2em;
+    border: 0;
+    font-size: 22px;
+    background: black;
+    color: wheat;
+    border-radius: 6px;
+    width: 175px;
+    height: 60px;
+}
+.weather button:hover{
+    background: rgb(58, 58, 58);
+}
